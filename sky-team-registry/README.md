@@ -1,6 +1,6 @@
 # Sky Engineering Team Registry & Org Visualizer
 
-**To see it in real-time on an interactive environment check out: https://github.com/SoheibKaddouri/sky-team-registry
+**To see it in real-time on an interactive environment check out: https://github.com/SoheibKaddouri/sky-team-registry**
 
 A centralized internal portal web application designed for Sky's engineering division to replace legacy manual spreadsheets. This platform accelerates incident response routing, streamlines project dependency tracking, and optimizes engineering onboarding.
 
