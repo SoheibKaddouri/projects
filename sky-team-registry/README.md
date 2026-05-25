@@ -1,7 +1,5 @@
 # Sky Engineering Team Registry & Org Visualizer
 
-**To see it in real-time on an interactive environment check out: https://github.com/SoheibKaddouri/sky-team-registry**
-
 A centralized internal portal web application designed for Sky's engineering division to replace legacy manual spreadsheets. This platform accelerates incident response routing, streamlines project dependency tracking, and optimizes engineering onboarding.
 
 ## 🛠️ Tech Stack & Architecture
@@ -18,3 +16,6 @@ While working alongside a collaborative engineering team on this platform, I per
 * **Directory Routing Architecture:** Built out clean data navigation structures to instantly filter team matrices by specializations or technology domains.
 * **Spreadsheet Migration Strategy:** Developed logic structures for translating legacy tabular data rows into distinct data objects ready for relational persistence.
 * **Git Collaboration Workflow:** Managed active feature branch merges, actively reviewed team commits, and successfully resolved complex integration merge conflicts.
+
+## 🌐 Live Interactive Demo
+* To see the platform code structure and frontend files in real-time within an interactive repository environment, check out the project codebase here: **[Sky Engineering Team Registry  Code Repository](https://github.com/SoheibKaddouri/sky-team-registry)**
