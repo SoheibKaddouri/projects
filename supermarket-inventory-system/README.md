@@ -18,4 +18,4 @@ The layout is split into specialized frontend services:
 3. **Analytics Pipeline Blocks:** Automated view-state routers that instantly partition items into dedicated low-stock or expiration lists without full page updates.
 
 ## 🌐 Live Interactive Demo
-* To see the application code structure and frontend execution assets in real-time within an interactive repository environment, check out the project codebase here: **[Supermarket Inventory System Code Repository](https://github.com/SoheibKaddouri/supermarket-inventory-system)**
+* To see the application code structure and frontend execution assets in real-time within an interactive repository environment, check out the project codebase here: **[Supermarket Inventory System Code Repository](https://github.com/SoheibKaddouri/supermarket-inventory-project)**
